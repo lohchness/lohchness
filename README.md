@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lok-Hymn Chow</h1>
+<h1 align="center">Hi 👋, call me Lok</h1>
 <h3 align="center">UniMelb 2nd year Comp Sci Major</h3>
 
 - 🌱 I’m currently learning: **Java**
 
 - 📫 How to reach me: **lokhymnchow02@gmail.com**
 
-- 📄 Know about my experiences: [resume link](resume link)
+- 📄 Know about my experiences: [*in progress*]
 
 - ⚡ Fun fact: **I like drawing**
 
