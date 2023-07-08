@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, call me Lok</h1>
-<h3 align="center">UniMelb 2nd year Comp Sci Major</h3>
+<h3 align="center">UniMelb Computer Science Senior</h3>
 
-- 🌱 I’m currently learning: **Java**
+- Currently learning Haskell
+- Reach me at `lokhymnchow02@gmail.com`
 
-- 📫 How to reach me: **lokhymnchow02@gmail.com**
-
-- 📄 Know about my experiences: [*in progress*]
-
-- ⚡ Fun fact: **I like drawing**
+- Avid runner; ran a half-marathon in 2 hours. [Strava](https://www.strava.com/athletes/113115417)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
