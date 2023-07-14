@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, call me Lok</h1>
 <h3 align="center">UniMelb Computer Science Senior</h3>
 
-- Currently learning Haskell
+- Currently learning Haskell, and Processing
 - Reach me at `lokhymnchow02@gmail.com`
-
-- Avid runner; ran a half-marathon in 2 hours. [Strava](https://www.strava.com/athletes/113115417)
+- Avid runner; ran a half-marathon in 2 hours and currently training for a full marathon. [Strava](https://www.strava.com/athletes/113115417)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
