@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, call me Lok</h1>
-<h3 align="center">UniMelb Computer Science Senior</h3>
+<h1 align="center">Hi! Call me Loki</h1>
+<h3 align="center">UniMelb Senior, BSc Computing and Software Systems</h3>
 
-- Currently learning Haskell, and Processing
+- Currently learning C# and Prolog
 - Reach me at `lhchow02@gmail.com`
-- Avid runner; ran a half-marathon in 2 hours and currently training for a full marathon. [Strava](https://www.strava.com/athletes/113115417)
+- Avid runner; went from zero to running four half marathons in a span of eight months; ran a half-marathon in 2 hours and currently training for a full marathon. [Strava](https://www.strava.com/athletes/113115417)
+- Check out my websites! [Here](https://lohchness.vercel.app/) and [here](https://lohchness.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
