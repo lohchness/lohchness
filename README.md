@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Call me Loki</h1>
-<h3 align="center">UniMelb Senior, BSc Computing and Software Systems</h3>
+<h3 align="center">UniMelb Graduate, BSc Computing and Software Systems</h3>
 
 - Currently learning Na'vi and Esperanto, and Godot
 - Reach me at `lhchow02@gmail.com`
