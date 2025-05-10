@@ -6,6 +6,8 @@
 - Avid runner; went from zero to running four half marathons in a span of eight months; ran a half-marathon in 2 hours and currently training for a full marathon. [Strava](https://www.strava.com/athletes/113115417)
 - Check out my websites! [Here](https://lohchness.vercel.app/) and [here](https://lohchness.github.io/)
 
+![lohchness's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohchness&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lohchness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lohchness" height="30" width="40" /></a>
